@@ -3,7 +3,7 @@
 Install the dependencies and start the server.
 
 ```sh
-git clone 
+git clone https://github.com/RamdhaniMichan/go-template.git
 go mod download
 go mod tidy
 go run main.go
